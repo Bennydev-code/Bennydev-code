@@ -3,21 +3,12 @@
 
 I'm currently a senior student majoring in CS at National Central University. I'm passionate about AI and and backend development. I bring four months of AI and Data Engineering internship experience from a startup, where I focused on developing a recommendation system and optimizing a chatbot for a 30-second response time improvement.
 
-<span>
-
-
-<!-- Light Mode -->
-<a href="https://www.linkedin.com/in/benny-chu-291034201#gh-light-mode-only">
-    <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only"
-        alt="Connect with me on linkedin" height="25" >
-</a>
-<!-- Dark Mode -->
-<a href="https://www.linkedin.com/in/benny-chu-291034201#gh-dark-mode-only">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only"
-        alt="Connect with me on linkedin" height="25" >
-</a>
-
-</span>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
+<p align="left">
+ 
+<a href="https://www.linkedin.com/in/benny-chu-291034201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kritika's Linkedin profile" height="30" width="40" /></a>
+</p>
+<br/>
 
 
 **languages and tools:**  
