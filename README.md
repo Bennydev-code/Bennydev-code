@@ -1,6 +1,6 @@
 ### Hi, I'm Benny 👋
 
-I'm currently a senior student majoring in CS at National Central University. I bring four months of AI and Data Engineering internship experience from a startup, where I focused on developing a recommendation system and optimizing a chatbot for a 30-second response time improvement. I'm passionate about AI and and backend development. If you have ideas or collaborations in these areas, feel free to connect!!
+I'm currently a senior student majoring in CS at National Central University. I'm passionate about AI and and backend development. I bring four months of AI and Data Engineering internship experience from a startup, where I focused on developing a recommendation system and optimizing a chatbot for a 30-second response time improvement.
 
 <span>
 
