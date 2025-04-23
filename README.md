@@ -6,7 +6,7 @@ I'm currently a senior student majoring in CS at National Central University. I'
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 <p align="left">
  
-<a href="https://www.linkedin.com/in/benny-chu-291034201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kritika's Linkedin profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pohsunchu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kritika's Linkedin profile" height="30" width="40" /></a>
 </p>
 <br/>
 
