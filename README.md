@@ -1,7 +1,7 @@
 ## Hi, I'm Benny 👋
 
 
-I'm currently a senior student majoring in CS at National Central University. I'm passionate about AI and and backend development. I bring four months of AI and Data Engineering internship experience from a startup, where I focused on developing a recommendation system and optimizing a chatbot for a 30-second response time improvement.
+Hi, I'm Po-Hsun (Benny) Chu. My current research lies at the intersection of computer vision and robotics, with a particular focus on generative AI in physical embodiment.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 <p align="left">
