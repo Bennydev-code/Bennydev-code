@@ -1,7 +1,7 @@
 ## Hi, I'm Benny 👋
 
 
-Hi, I'm Po-Hsun (Benny) Chu. My current research lies at the intersection of computer vision and robotics, with a particular focus on generative AI in physical embodiment.
+My current research lies at the intersection of computer vision and robotics, with a particular focus on generative AI in physical embodiment.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 <p align="left">
